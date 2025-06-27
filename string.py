@@ -1,3 +1,3 @@
 a="Hemanthkumar"
 print("my namr is :",a)
-print(type(a))
+print( type(a))
